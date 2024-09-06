@@ -50,4 +50,4 @@ The tests are organized in the **test/specs** folder and executed via **Mocha**.
 
 Each test case uses Selenium WebDriver to simulate user interactions and validate the behavior of the web application.
 
-> Credits: @testautomation999
+> Credits: (@testautomation999)[https://www.youtube.com/channel/UCjJRU4qQ8FcRxruCia5CfJQ]
